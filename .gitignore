@@ -1,0 +1,4 @@
+# Project exclude paths
+/bio-server/target/
+/netty-server/target/
+/nio-server/target/
